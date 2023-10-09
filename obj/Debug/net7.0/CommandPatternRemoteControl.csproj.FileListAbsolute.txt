@@ -1,0 +1,15 @@
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\bin\Debug\net7.0\CommandPatternRemoteControl.exe
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\bin\Debug\net7.0\CommandPatternRemoteControl.deps.json
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\bin\Debug\net7.0\CommandPatternRemoteControl.runtimeconfig.json
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\bin\Debug\net7.0\CommandPatternRemoteControl.dll
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\bin\Debug\net7.0\CommandPatternRemoteControl.pdb
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\obj\Debug\net7.0\CommandPatternRemoteControl.csproj.AssemblyReference.cache
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\obj\Debug\net7.0\CommandPatternRemoteControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\obj\Debug\net7.0\CommandPatternRemoteControl.AssemblyInfoInputs.cache
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\obj\Debug\net7.0\CommandPatternRemoteControl.AssemblyInfo.cs
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\obj\Debug\net7.0\CommandPatternRemoteControl.csproj.CoreCompileInputs.cache
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\obj\Debug\net7.0\CommandPatternRemoteControl.dll
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\obj\Debug\net7.0\refint\CommandPatternRemoteControl.dll
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\obj\Debug\net7.0\CommandPatternRemoteControl.pdb
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\obj\Debug\net7.0\CommandPatternRemoteControl.genruntimeconfig.cache
+D:\προγραμματισμός\c#\CommandPatternRemoteControl\obj\Debug\net7.0\ref\CommandPatternRemoteControl.dll
